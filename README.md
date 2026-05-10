@@ -1,11 +1,28 @@
 # Balloons
-Mod for Minecraft 1.7.10 that adds Balloons.
 
-Balloons version 0.2.1 for Minecraft 1.7.10 has been released! Check it <a href="http://zanyleonic.github.io/Balloons/">over here!</a>
+A Minecraft mod that adds Balloons.
 
-<a href="http://minecraft.curseforge.com/mc-mods/233770-balloons-mod">CurseForge project page</a>
+## Branches
 
-<a href="http://github.com/ZanyLeonic/Balloons/tree/1.7.10">1.7.10</a> branch for the latest source code.
+| Branch | Minecraft | Loader |
+|---|---|---|
+| `master` | 1.7.10 | Forge |
+| `neoforge-1.21.1` | 1.21.1 | NeoForge |
 
-<a href="http://ZanyLeonic.github.io/Balloons/doc/1.7.10-0.21">Latest JavaDoc</a>
+## NeoForge 1.21.1
 
+This branch contains the NeoForge 1.21.1 port, currently in progress.
+
+**Requirements:** Java 21, NeoForge 21.1.x
+
+```bash
+./gradlew runClient   # launch client
+./gradlew runServer   # launch server
+./gradlew build       # build jar
+```
+
+## 1.7.10 (original)
+
+See the [`master`](https://github.com/KoriKosmos/Balloons/tree/master) branch.
+
+Version 0.2.1 — [CurseForge page](http://minecraft.curseforge.com/mc-mods/233770-balloons-mod)
