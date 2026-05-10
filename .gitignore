@@ -30,6 +30,8 @@ build/
 gradle/
 gradlew
 gradlew.bat
+run/
+runs/
 
 # Compiled output
 *.class
