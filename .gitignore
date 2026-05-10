@@ -1,0 +1,30 @@
+# Eclipse
+.classpath
+.settings/
+bin/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# VS Code
+.vscode/
+
+# Gradle / ForgeGradle
+.gradle/
+build/
+gradle/
+gradlew
+gradlew.bat
+
+# Compiled output
+*.class
+*.jar
+*.war
+
+# OS
+.DS_Store
+Thumbs.db

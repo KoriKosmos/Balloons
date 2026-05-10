@@ -1,0 +1,28 @@
+{
+  "itemGroup.bm.balloons": "Balloons",
+
+  "block.bm.balloon_black": "Black Balloon",
+  "block.bm.balloon_blue": "Blue Balloon",
+  "block.bm.balloon_brown": "Brown Balloon",
+  "block.bm.balloon_cyan": "Cyan Balloon",
+  "block.bm.balloon_green": "Green Balloon",
+  "block.bm.balloon_gray": "Gray Balloon",
+  "block.bm.balloon_light_blue": "Light Blue Balloon",
+  "block.bm.balloon_light_gray": "Light Gray Balloon",
+  "block.bm.balloon_lime": "Lime Balloon",
+  "block.bm.balloon_magenta": "Magenta Balloon",
+  "block.bm.balloon_orange": "Orange Balloon",
+  "block.bm.balloon_pink": "Pink Balloon",
+  "block.bm.balloon_purple": "Purple Balloon",
+  "block.bm.balloon_red": "Red Balloon",
+  "block.bm.balloon_white": "White Balloon",
+  "block.bm.balloon_yellow": "Yellow Balloon",
+
+  "item.bm.rubber": "Rubber",
+  "item.bm.rubber_sheet": "Rubber Sheet",
+  "item.bm.rubber_nozzle": "Rubber Nozzle",
+  "item.bm.rubber_ball": "Rubber Ball",
+
+  "subtitles.bm.balloon.pop": "Balloon pops",
+  "subtitles.bm.balloon.step": "Balloon squeaks"
+}
