@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DSD",
+    "S S",
+    "DND"
+  ],
+  "key": {
+    "D": { "item": "minecraft:red_dye" },
+    "S": { "item": "bm:rubber_sheet" },
+    "N": { "item": "bm:rubber_nozzle" }
+  },
+  "result": {
+    "id": "bm:balloon_red",
+    "count": 1
+  }
+}

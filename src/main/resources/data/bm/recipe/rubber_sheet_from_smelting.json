@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": { "item": "bm:rubber_ball" },
+  "result": {
+    "id": "bm:rubber_sheet",
+    "count": 1
+  },
+  "experience": 0.2,
+  "cookingtime": 200
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " ",
+    "S S",
+    " B "
+  ],
+  "key": {
+    "S": { "item": "bm:rubber_sheet" },
+    "B": { "item": "bm:rubber_ball" }
+  },
+  "result": {
+    "id": "bm:rubber_nozzle",
+    "count": 1
+  }
+}
