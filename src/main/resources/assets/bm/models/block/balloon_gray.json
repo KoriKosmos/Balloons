@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:block/cube_all",
+  "parent": "bm:block/balloon_base",
   "textures": {
     "all": "bm:block/balloon_gray"
   }

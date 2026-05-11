@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {"item": "minecraft:slime_ball"},
+    {"item": "minecraft:slime_ball"},
+    {"item": "minecraft:slime_ball"},
+    {"item": "minecraft:slime_ball"}
+  ],
+  "result": {
+    "id": "bm:rubber",
+    "count": 1
+  }
+}
